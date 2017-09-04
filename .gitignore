@@ -1,0 +1,14 @@
+#################################
+##     Unreal Engine Fluff     ##
+#################################
+*/Content/StarterContent/*
+*/Intermediate/*
+*/Build/*
+*/Binaries/*
+*/DerivedDataCache/*
+*/Saved/*
+
+#################################
+##     Visual Studio Fluff     ##
+#################################
+*.VC.db
